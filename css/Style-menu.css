@@ -1,0 +1,22 @@
+body{
+    
+}
+.bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/KW-Menu.png);
+    background-repeat: no-repeat;
+    height: 266vh;
+}
+@media screen and (max-width:500px) {
+    .bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/KW-Menu.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 98vh;
+    }
+}

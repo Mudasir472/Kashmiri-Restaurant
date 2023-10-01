@@ -270,6 +270,16 @@ header{
     cursor: pointer;
 }
 
+/* .containerFoot {
+    height: 9vh;
+    width: 92%;
+    align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: rgb(242, 242, 242);
+} */
+
 
 
 @media screen and (max-width:500px) {

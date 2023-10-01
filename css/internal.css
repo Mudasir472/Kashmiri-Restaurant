@@ -52,3 +52,23 @@
 .padding-none{
     padding: none;
 }
+
+.social-Media{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 11vh;
+    background-color: #cacaca;
+
+}
+.hi{
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e7e7e7;
+}
+
+i{
+    color: black;
+}
